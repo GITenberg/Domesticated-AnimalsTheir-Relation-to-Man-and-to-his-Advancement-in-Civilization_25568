@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8112
     wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Shaler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25568#Domesticated-AnimalsTheir-Relation-to-Man-and-to-his-Advancement-in-Civilization
 gutenberg_bookshelf: Animals-Domestic
 gutenberg_issued: '2008-05-23'
 gutenberg_type: Text
