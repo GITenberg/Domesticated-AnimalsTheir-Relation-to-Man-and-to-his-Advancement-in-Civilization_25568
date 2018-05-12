@@ -1,0 +1,33 @@
+_repo: Domesticated-AnimalsTheir-Relation-to-Man-and-to-his-Advancement-in-Civilization_25568
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shaler, Nathaniel Southgate
+    birthdate: 1841
+    deathdate: 1906
+    gutenberg_agent_id: '8112'
+    url: http://www.gutenberg.org/2009/agents/8112
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Shaler
+description: ''
+gutenberg_bookshelf: Animals-Domestic
+gutenberg_issued: '2008-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25568'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SF'
+- !lcsh 'Domestic animals'
+tableOfContents: The dog -- The horse -- The flocks and herds; beasts for burden,
+  food, and raiment -- Domesticated birds -- Useful insects -- The rights of animals
+  -- The problem of domestication.
+title: 'Domesticated Animals
+
+  Their Relation to Man and to his Advancement in Civilization'
+url: http://www.gutenberg.org/ebooks/25568
